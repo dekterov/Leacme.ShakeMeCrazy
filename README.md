@@ -5,6 +5,7 @@
 This application features the ability to use your device's accelerometer to change the mood of the smiley.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704011-168df300-2d95-11ea-82df-271935085364.png)
 
 ## Application Compiling
 
